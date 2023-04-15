@@ -1,0 +1,29 @@
+#main div {
+  padding: 1em 10px 10em 10px;
+}
+
+#main{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.marginButton{
+    margin-right: 10px;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo img{
+    width: 50%;
+    height: auto;
+}
+
+#presentation{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
